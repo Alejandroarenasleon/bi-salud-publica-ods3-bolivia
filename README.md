@@ -5,24 +5,20 @@
 ## 📋 Estado Actual del Proyecto
 **Progreso visible en tiempo real:**
 
-➡️ **[Ver Tablero Kanban](https://github.com/TU_USUARIO/bi-salud-publica-ods3-bolivia/projects/1)**
+➡️ **[Ver Tablero Kanban](https://github.com/users/Alejandroarenasleon/projects/2)**
 
-## 📊 Progreso Actual (01 Abril 2026)
+## 📊 Progreso del Proyecto (Actualizado al 01 de abril de 2026)
 
-| Fase                        | Estado     | %   |
-|-----------------------------|------------|-----|
-| Propuesta Técnica           | ✅ Done     | 100% |
-| Data Inventory y Tablas     | ✅ Done     | 100% |
-| KPIs y OKRs                 | ✅ Done     | 100% |
-| ETL + Modelado Estrella     | 🔄 To Do    | 0%  |
-| Dashboards Power BI         | 🔄 To Do    | 0%  |
-| Integración CEPALSTAT       | 🔄 To Do    | 0%  |
-| Defensa Final               | 🔄 To Do    | 0%  |
+| Fase                                      | Estado          | Porcentaje | Columna Kanban     |
+|-------------------------------------------|-----------------|------------|--------------------|
+| 1. Finalizar Propuesta Técnica Completa   | ✅ Completada    | 100%       | Done               |
+| 2. Crear Data Inventory y Tablas          | ✅ Completada    | 100%       | Done               |
+| 3. Diseñar KPIs y OKRs                    | ✅ Completada    | 100%       | Done               |
+| 4. Implementar procesos ETL               | 🔄 Pendiente    | 0%         | To Do              |
+| 5. Modelado Estrella (Data Lakehouse)     | 🔄 Pendiente    | 0%         | To Do              |
+| 6. Crear Dashboards interactivos (Power BI)| 🔄 Pendiente    | 0%         | To Do              |
+| 7. Integrar datos externos (CEPALSTAT + SNIS-VE) | 🔄 Pendiente | 0%         | To Do              |
+| 8. Pruebas y Validación de Calidad        | 🔄 Pendiente    | 0%         | To Do              |
+| 9. Preparar Defensa Final + Presentación  | 🔄 Pendiente    | 0%         | To Do              |
 
-## 📁 Estructura del Repositorio
-- `docs/` → Propuesta completa (PDF + Word)
-- `reports/` → Tablas y KPIs
-- `images/` → Diagramas
-- `src/` → Código Python / ETL (próximamente)
-
-**Última actualización:** 01 de abril de 2026
+**Progreso general del proyecto:** 33% completado
